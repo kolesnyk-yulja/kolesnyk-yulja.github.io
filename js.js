@@ -17,12 +17,11 @@
   $('.news_sl').slick({
   	slidesToShow: 2,
   slidesToScroll: 2,
-  dots: true
   });
 
 
       $('.clients_sl').slick({
   	slidesToShow: 8,
-  slidesToScroll: 1
+  slidesToScroll: 3
 
   });
